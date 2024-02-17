@@ -10,7 +10,12 @@
 }
 .page-heading{
     text-align: center;
+    margin-top: 3rem;
     margin-bottom: 50px;
+}
+.page-heading h1{
+    word-spacing: 3px;
+    letter-spacing: 7px;
 }
 .team-members{
     display: flex;
