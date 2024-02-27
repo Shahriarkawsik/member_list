@@ -29,6 +29,13 @@
     width: 32.333%;
     padding: 0 15px;
 }
+.single-team-member img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0px 90px #F1FF61;
+}
 .single-team-member-inner{
     position: relative;
     box-shadow: 3px 4px 8px #0000005e;
